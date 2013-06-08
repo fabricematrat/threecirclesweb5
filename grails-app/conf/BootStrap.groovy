@@ -1,9 +1,11 @@
+/*
 import threecirclesweb5.Place
 import threecirclesweb5.Friend
-
+*/
 class BootStrap {
 
     def init = { servletContext ->
+/*
         Friend fabrice = new Friend(firstname: "Fabrice", lastname: "Matrat", registrationDate: new Date())
         fabrice.save()
 
@@ -15,7 +17,7 @@ class BootStrap {
 
         Place beziers = new Place(description: "Béziers", latitude:48.8, longitude: 2.3 )
         beziers.save()
-
+*/
 
     }
     def destroy = {
