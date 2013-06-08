@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/html5MobileScaffolding-inplacePlugin.iml" filepath="$PROJECT_DIR$/html5MobileScaffolding-inplacePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threecirclesweb5.iml" filepath="$PROJECT_DIR$/threecirclesweb5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threecirclesweb5-grailsPlugins.iml" filepath="$PROJECT_DIR$/threecirclesweb5-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+
