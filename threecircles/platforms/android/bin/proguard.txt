@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.phonegap.example.HelloCordova { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class org.threemusketeers.cordova.plugin.browserpush.BrowserPush { <init>(...); }
+
