@@ -13,7 +13,7 @@ class BootStrap {
         Place nice = new Place(description: "Nice", latitude:43.7, longitude: 7.2 )
         nice.save()
 
-        Place beziers = new Place(description: "Béziers", latitude:48.8, longitude: 2.3 )
+        Place beziers = new Place(description: "Béziers", latitude:43.34, longitude: 3.24 )
         beziers.save()
 
 
